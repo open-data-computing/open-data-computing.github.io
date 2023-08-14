@@ -1,4 +1,4 @@
-# Contribute to ToM Workshop Website
+# Contribute to open-data-computing Workshop Website
 
 ### New branch for each feature
 `git checkout -b feature/feature-name` and PR to `master` branch.
