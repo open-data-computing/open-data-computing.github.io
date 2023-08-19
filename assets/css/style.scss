@@ -89,6 +89,7 @@ a.navbar-item.is-active {
 #hero {
     background: rgba(250, 249, 249, 0.5);
     background-image: url("../images/background.png");
+    background-size: cover;
 }
 #hero::before {
     content: "";
