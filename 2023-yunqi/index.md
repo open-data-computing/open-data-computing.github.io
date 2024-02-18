@@ -1,3 +1,3 @@
 ---
-layout: default2023
+layout: default
 ---
