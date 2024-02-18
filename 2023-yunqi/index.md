@@ -1,3 +1,3 @@
 ---
-layout: 2023-yunqi/default
+layout: 2023-yunqi/layout/default
 ---
